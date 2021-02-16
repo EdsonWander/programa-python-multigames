@@ -14,7 +14,7 @@ e boas práticas de programação.
 
  <table style="width:100%" border="0px">
   <tr>
-    <td><img src="imgs/adivinhação.png" width="500" height="300"/></td>
+    <td><img src="imgs/adivinhação.png" width="500" height="350"/></td>
     <td><img src="imgs/forca.png" width="500"/></td>
   </tr>
 </table> 
